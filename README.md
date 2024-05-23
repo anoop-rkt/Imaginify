@@ -55,6 +55,9 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
 
+👉 **CRUD Functionality**: Create , read , update and delete images using server actions 
+
+👉 **Webhooks**: Synchronize and reference of user between Clerk User and database . Also synchronize and reference of transactions of user between Stripe payments and database
 
 and many more, including code architecture and reusability 
 
